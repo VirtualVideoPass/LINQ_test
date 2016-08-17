@@ -20,7 +20,22 @@ namespace LINQtest
         static void Main(string[] args)
         {
             //exampleArray();
-            exampleEmploers();
+            //exampleEmploers();
+            eArrayStrings();
+        }
+
+        private static void eArrayStrings()
+        {
+            string[] strings = { "one", "two", "three" };
+
+            Console.WriteLine("Before Where() is called.");
+            IEnumerable<string> ieStrings = strings.Where(s => s.Length >= 3);
+            Console.WriteLine("After Where() is called.");
+
+            foreach (string s in ieStrings)
+            {
+                Console.WriteLine("Processing " + s);
+            }
         }
 
         private static void exampleArray()
