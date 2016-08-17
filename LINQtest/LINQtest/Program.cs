@@ -19,9 +19,9 @@ namespace LINQtest
 
         static void Main(string[] args)
         {
-            //exampleArray();
+            exampleArray();
             //exampleEmploers();
-            eArrayStrings();
+            //eArrayStrings();
         }
 
         private static void eArrayStrings()
@@ -76,6 +76,9 @@ namespace LINQtest
 
             
             Console.ReadLine();
+
+
+
         }
 
         public class Employee
