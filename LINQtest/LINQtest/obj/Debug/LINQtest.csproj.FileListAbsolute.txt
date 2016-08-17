@@ -4,3 +4,9 @@ C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.
 C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.csprojResolveAssemblyReference.cache
 C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.exe
 C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.pdb
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.exe.config
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.exe
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.pdb
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.exe
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.pdb
+C:\pro\kaferi\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.csprojResolveAssemblyReference.cache
