@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.exe.config
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.exe
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\bin\Debug\LINQtest.pdb
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.exe
+C:\Users\Andrey\Documents\GitHub\LINQ_test\LINQtest\LINQtest\obj\Debug\LINQtest.pdb
