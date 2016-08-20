@@ -90,6 +90,7 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+bin/
 
 # Guidance Automation Toolkit
 *.gpState
