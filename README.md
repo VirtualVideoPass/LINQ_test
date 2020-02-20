@@ -10,3 +10,5 @@ Edit assembly info of a PDF document [products.aspose.app/pdf/assembly](https://
 <p><a href="/" target="_blank" rel="noopener noreferrer">Link blank nofollow noreferrer noopener</a></p>
 
 <p>Edit assembly info of a PDF document <a href="/" target="https://products.aspose.app/pdf/assembly" rel="noopener noreferrer">products.aspose.app/pdf/assembly</a></p>
+
+<p>Edit assembly info of a PDF document <a target="_blank" href="https://products.aspose.app/pdf/assembly" rel="noopener noreferrer">products.aspose.app/pdf/assembly</a></p>
