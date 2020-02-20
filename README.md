@@ -12,3 +12,5 @@ Edit assembly info of a PDF document [products.aspose.app/pdf/assembly](https://
 <p>Edit assembly info of a PDF document <a href="/" target="https://products.aspose.app/pdf/assembly" rel="noopener noreferrer">products.aspose.app/pdf/assembly</a></p>
 
 <p>Edit assembly info of a PDF document <a target="_blank" href="https://products.aspose.app/pdf/assembly" rel="noopener noreferrer">products.aspose.app/pdf/assembly</a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="/codemonauts/craft-redactor-nofollow/blob/master/resources/nofollow.png"><img src="/codemonauts/craft-redactor-nofollow/raw/master/resources/nofollow.png" alt="Icon" style="max-width:100%;"></a></p>
